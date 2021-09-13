@@ -1,0 +1,11 @@
+gripe;Para el tratamiento de la gripe se recomienda descansar, beber abundantes líquidos, tomar aguapanela con limon y jengibre.
+alergia;Para tratar la alergia se recomienda de tomar medicamentos antihistaminicos, corticosteroides y/o inyecciones.
+esguince;Para el tratamiento del esguince se recomienda el reposo, hielo y calor,compresiones para calrmar la hinchazon.
+fractura;Se requiere de una operacion para tratar la fractura, una ferula o yeso y absoluto reposo en la zona.
+examenes;Se requiere de que vaya a su medico y revise sus sintomas.
+diabetes;Se requiere de una prueba de azucar en la sangre, se nesecita una dieta adecuada, ejercicio fisico y medicacion.
+apendicitis;Se requiere exploracion fisica para evaluar el dolor y si se necesita una intervencion quirurgica.
+gripe;Para el tratamiento de la gripe se recomienda descansar, beber abundantes líquidos, tomar aguapanela con limon y jengibre.
+asma;Se requiere de utilizar el inhalador para aliviar rapido, como el salbutamol.
+hipertencion;Se recomienda llevar una dieta saludable, realizar actividad fisica y limitar la cantidad de alcohol.
+gripe;Para el tratamiento de la gripe se recomienda descansar, beber abundantes líquidos, tomar aguapanela con limon y jengibre.
